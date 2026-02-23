@@ -1,4 +1,4 @@
 # images
 This is my personal picture bed.
 
-More infromation you can watch in ![picgo](https://docs.picgo.app/zh/).
+More infromation you can find in [PicGo](https://docs.picgo.app/zh/core/)。
